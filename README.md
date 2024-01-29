@@ -2,13 +2,13 @@
 
 ### Install project dependencies
 
-```shell
+```bash
 pnpm install
 ```
 
 ### Run dependencies
 
-```shell
+```bash
 pnpm run dev
 ```
 
